@@ -1,4 +1,4 @@
-## Hi there 👋
+[cdn.vscripts.online](https://cdn.vscripts.online)
 
 <!--
 
