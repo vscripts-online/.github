@@ -22,4 +22,4 @@ Our API Gateway is designed to facilitate interaction with the external world wh
 
 Current architecture:
 
-![alt text](https://api.cdn.vscripts.online/files/P3EpzjXh "Architecture")
+![Architecture](https://api.cdn.vscripts.online/files/pQfiG8xk "Architecture")
