@@ -20,6 +20,20 @@ Signing up is quick and easy. Simply create an account, and you'll instantly gai
 
 Join our growing community of users who trust cdn.vscripts.online for their file storage needs. Start uploading today and discover the difference!
 
+# [shorter.vscripts.online](https://shorter.vscripts.online)
+
+Welcome to shorter.vscripts.online, the smarter way to keep up with the speed of the internet by shortening your links. Say goodbye to long and cumbersome URLs, and hello to simple, concise, and shareable links!
+
+### Why Choose shorter.vscripts.online?
+
+
+1. **Ease of Use**: Simply paste your URL and get a shortened link within seconds. It’s quick, convenient, and accessible for everyone!
+
+2. **Customizability**: Customize your links just the way you want. Create your own custom shortening prefixes to make your links align perfectly with your brand.
+
+3. **Tracking and Analytics**: Keep track of your shortened links' performance. Watch which links are getting more clicks and analyze your target audience's behavior.
+
+4. **Free Trial**: Start your free trial today and discover how you can optimize your links. There’s no risk, only results!
 
 <!--
 
