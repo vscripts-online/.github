@@ -2,13 +2,11 @@ Hello,
 
 Our system is built on a microservices architecture, comprising a set of services that perform specific tasks independently. The core microservices in our system include:
 
-[Session](https://github.com/vscripts-online/session-ms): Manages user sessions and handles authentication processes.
+[Session (deprecated)](https://github.com/vscripts-online/session-ms): Manages user sessions and handles authentication processes.
 
-[User](https://github.com/vscripts-online/user-ms): Manages user data and performs operations related to users.
+[User (deprecated)](https://github.com/vscripts-online/user-ms): Manages user data and performs operations related to users.
 
 [File](https://github.com/vscripts-online/file-ms): Stores files database, manages access, and permissions.
-
-[Queue](https://github.com/vscripts-online/queue-ms): Processes message queues and manages asynchronous tasks.
 
 [Queue](https://github.com/vscripts-online/queue-ms): Processes message queues and manages asynchronous tasks.
 
@@ -22,4 +20,4 @@ Our API Gateway is designed to facilitate interaction with the external world wh
 
 Current architecture:
 
-![Architecture](https://api.cdn.vscripts.online/files/pQfiG8xk "Architecture")
+![Architecture](https://sketchboard.me/JEqhQm2ngNq# "Architecture")
