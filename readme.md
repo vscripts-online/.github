@@ -22,4 +22,4 @@ Current architecture:
 
 ![Architecture](https://api-cdn.vscripts.online/files/667283f87c260ac4479fb955 "Architecture")
 
-View on ![SketchBoard](https://sketchboard.me/JEqhQm2ngNq# "SketchBoard")
+View on [SketchBoard](https://sketchboard.me/JEqhQm2ngNq#)
