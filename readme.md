@@ -20,4 +20,6 @@ Our API Gateway is designed to facilitate interaction with the external world wh
 
 Current architecture:
 
-![Architecture](https://sketchboard.me/JEqhQm2ngNq# "Architecture")
+![Architecture](https://api-cdn.vscripts.online/files/667283f87c260ac4479fb955 "Architecture")
+
+View on ![SketchBoard](https://sketchboard.me/JEqhQm2ngNq# "SketchBoard")
